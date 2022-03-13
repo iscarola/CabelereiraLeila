@@ -92,7 +92,7 @@ nav a:hover {
 footer {
 	text-align: center;
 	background: url("../img/bg.jpg");
-   
+   height: 160px;
 	padding: 40px 0;
 }
 
@@ -250,7 +250,8 @@ td, th {
 
 
 .imagembeneficios{
-    width: 60%;
+    width: 40%;
+	float: right;
 }
 
 
